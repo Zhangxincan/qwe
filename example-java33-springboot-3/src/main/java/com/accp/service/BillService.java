@@ -15,7 +15,7 @@ import com.accp.domain.BillDetailExample;
 @Service
 @Transactional
 public class BillService {
-	
+	/*哈哈*/
 	@Autowired
 	private BillMapper mapper;
 	
